@@ -22,7 +22,7 @@ import com.bumptech.glide.request.target.Target
 import kotlinx.android.synthetic.main.activity_main.*
 import org.json.JSONObject
 import kotlinx.android.synthetic.main.activity_main.memeShare as memeShare1
-
+\\code to create a random meme app in android studio using Kotlin
 
 class MainActivity : AppCompatActivity() {
     var currentimageurl:String?=null
